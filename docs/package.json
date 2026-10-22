@@ -13,7 +13,7 @@
     "@inkeep/cxkit-react": "^0.5.98",
     "clsx": "^2.1.0",
     "framer-motion": "^12.0.0",
-    "next": "^16.0.7",
+    "next": "^16.3.8",
     "nextra": "workspace:*",
     "nextra-theme-docs": "workspace:*",
     "react": "19.1.0",
